@@ -1,11 +1,18 @@
-IyBGUEEgSHViCgojIyBGaW5hbmNpYWwgUGxhbm5pbmcgJiBBbmFseXNpcyBS
-ZXNvdXJjZXMKClRoZSBtYWluIHJlcG9zaXRvcnkgZm9yIG15IEZQJkEgcmVz
-b3VyY2VzLCB0b29scywgYW5kIGtub3dsZWRnZSBzaGFyaW5nLgoKIyMgV2hhd
-CdzIEluc2lkZQotIEZpbmFuY2lhbCBtb2RlbHMgZm9yIGZvcmVjYXN0aW5n
-LCBidWRnZXRpbmcsIGFuZCB2YWx1YXRpb24KLSBTY3JpcHRzIGZvciBhdXRv
-bWF0aW9uIGFuZCBhbmFseXNpcwotIFRlbXBsYXRlcyBmb3IgcmVwb3J0cyBh
-bmQgZGFzaGJvYXJkcwotIERvY3VtZW50YXRpb24gb24gRlAmQSBiZXN0IHBy
-YWN0aWNlcwoKIyMgV2hvIFRoaXMgSXMgRm9yCkZQJkEgcHJvZmVzc2lvbmFs
-cywgc3R1ZGVudHMsIGFuZCBhbm9uZSBpbnRlcmVzdGVkIGluIGZpbmFuY2lh
-bCBhbmFseXNpcy4KCioiTWFpbnRhaW5lZCBieSBKcsOjbyBDYWxkYXMgfCBq
-b2FvY2NhbGRhc0BnbWFpbC5jb20iKio=
+# FPA Hub
+
+**Financial Planning & Analysis resources, tools, and knowledge sharing** — a central home for FP&A work.
+
+## What's inside
+
+- Financial models for forecasting, budgeting, and valuation
+- Scripts for automation and analysis
+- Templates for reports and dashboards
+- Notes on FP&A best practices
+
+## Who it's for
+
+FP&A professionals, students, and anyone interested in financial analysis.
+
+---
+
+Maintained by [João Caldas](https://github.com/joaoccaldas).
